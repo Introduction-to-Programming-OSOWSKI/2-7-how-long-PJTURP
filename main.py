@@ -1,4 +1,4 @@
-#WRITE YOUR CODE IN THIS FILE
+#function how long
 
 
 def howLong(w):
