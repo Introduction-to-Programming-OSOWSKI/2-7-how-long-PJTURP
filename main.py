@@ -1,4 +1,4 @@
-#function how long
+#def howLong
 
 def howLong(w):
         return len(w)
